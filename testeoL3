@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+
+
+int main() {
+    cout << "Hello, World!"<< endl;
+    cout << "mi nombre es darwin, chavez"<< endl;
+   
+    return 0;
+}
+
+
+
